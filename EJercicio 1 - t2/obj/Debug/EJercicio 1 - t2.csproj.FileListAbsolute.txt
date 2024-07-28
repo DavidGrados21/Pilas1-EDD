@@ -1,0 +1,10 @@
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\bin\Debug\EJercicio 1 - t2.exe.config
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\bin\Debug\EJercicio 1 - t2.exe
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\bin\Debug\EJercicio 1 - t2.pdb
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\obj\Debug\EJercicio 1 - t2.csproj.AssemblyReference.cache
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\obj\Debug\EJercicio_1___t2.Form1.resources
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\obj\Debug\EJercicio_1___t2.Properties.Resources.resources
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\obj\Debug\EJercicio 1 - t2.csproj.GenerateResource.cache
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\obj\Debug\EJercicio 1 - t2.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\obj\Debug\EJercicio 1 - t2.exe
+C:\Users\David\source\repos\EJercicio 1 - t2\EJercicio 1 - t2\obj\Debug\EJercicio 1 - t2.pdb
